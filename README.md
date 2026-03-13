@@ -3,6 +3,8 @@ Trabalho final na disciplina de Lógica de Programação proposto pelo professor
 
 Integrantes do grupo:
 
+Bruno da Silva de Sousa Freitas
+
 Marcelo Pozzato Rabello Mayrinck
 
 Vitor Ribeiro Alberto da Silva
