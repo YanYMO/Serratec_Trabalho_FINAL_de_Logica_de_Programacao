@@ -3,6 +3,8 @@ Trabalho final na disciplina de Lógica de Programação proposto pelo professor
 
 Integrantes do grupo:
 
+Marcelo Pozzato Rabello Mayrinck
+
 Wallace de Oliveira Ildefonso
 
 Yan Martins de Oliveira
