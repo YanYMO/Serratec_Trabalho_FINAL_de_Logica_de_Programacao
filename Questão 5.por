@@ -1,10 +1,3 @@
-/*
-Questão 5 - Ordenação de um vetor sem biblioteca 
-● Descrição: Crie um algoritmo que leia um vetor de 10 posições e 
-depois ordene seus valores em ordem crescente sem usar funções 
-prontas ou bibliotecas. 
-*/
-
 programa
 {
 	
@@ -41,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 599; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

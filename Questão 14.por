@@ -1,9 +1,3 @@
-/*
-Questão 14 - Triangulo Retângulo de Altura N 
-● Descrição: Desenvolva um algoritmo que solicite um valor inteiro N 
-e imprima uma pirâmide numérica de altura N. 
-*/
-
 programa
 {
 	
@@ -11,9 +5,12 @@ programa
 	{
 		inteiro n
 
-		escreva("Digite um valor inteiro N: ")
-		leia(n)
-
+		faca{
+			escreva("Digite um número inteiro: ")
+			leia(n)
+			limpa()
+		}enquanto(n <= 0)
+		
 		para(inteiro i = 1; i <= n; i++){
 			para(inteiro j = 1; j <= i; j++){
 				escreva(" ", j)
@@ -27,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 166; 
+ * @POSICAO-CURSOR = 88; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

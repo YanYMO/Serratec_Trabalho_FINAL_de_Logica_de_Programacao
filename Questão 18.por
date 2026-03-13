@@ -1,9 +1,4 @@
-/*
-Questão 18 - Soma da Diagonal Secundária de uma 
-Matriz 4x4 
-● Descrição: Escreva um programa que calcule e exiba a soma dos 
-elementos da diagonal secundária de uma matriz 4x4. 
-*/programa
+programa
 {
 	
 	const inteiro LINHAS = 4
@@ -25,7 +20,7 @@ elementos da diagonal secundária de uma matriz 4x4.
 				}
 			}
 		}
-		escreva("Soma: ", soma)
+		escreva("Soma: ", soma, "\n")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -33,9 +28,9 @@ elementos da diagonal secundária de uma matriz 4x4.
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 608; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {numeros, 12, 9, 7};
+ * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */

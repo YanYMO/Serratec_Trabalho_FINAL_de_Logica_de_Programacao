@@ -1,8 +1,3 @@
-/*
-Questão 2 - Contar vogais em uma frase 
-● Descrição: Desenvolva um algoritmo que leia uma frase e conte 
-quantas vogais ela possui. Considere usar bibliotecas. 
-*/
 programa
 {
 	inclua biblioteca Texto --> txt
@@ -42,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 411; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

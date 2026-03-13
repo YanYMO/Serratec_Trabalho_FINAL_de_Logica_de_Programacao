@@ -1,12 +1,3 @@
-/*
-Questão 3 - Separar números pares e ímpares de 
-um vetor 
-● Descrição: Crie um programa que leia 10 números inteiros e 
-armazene em um vetor. Depois, separe em dois vetores, um de 
-impares e outro de pares, depois exiba os números ímpares e os 
-pares separadamente. 
-*/
-
 programa
 {
 	
@@ -55,7 +46,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 314; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
