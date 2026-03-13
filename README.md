@@ -5,6 +5,8 @@ Integrantes do grupo:
 
 Marcelo Pozzato Rabello Mayrinck
 
+Vitor Ribeiro Alberto da Silva
+
 Wallace de Oliveira Ildefonso
 
 Yan Martins de Oliveira
