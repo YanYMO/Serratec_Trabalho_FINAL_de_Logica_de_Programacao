@@ -10,13 +10,14 @@ programa
 		leia(N)
 		valorFatorial = fatorial(N)
 
-		 escreva("O fatorial do número é: ", valorFatorial)
+		escreva("O fatorial do número é: ", valorFatorial)
 	}
 	
 	funcao inteiro fatorial(inteiro n){
-		se (n == 0 ou n ==1){
+		se(n == 0 ou n ==1){
 			retorne 1
-		} senao{
+		}
+		senao{
 			inteiro num = n * fatorial(n-1)
 			retorne num 
 		}
@@ -27,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 201; 
+ * @POSICAO-CURSOR = 32; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
